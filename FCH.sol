@@ -3,7 +3,8 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------
 // 'FCH' token contract
 // Deployed by 'FMHuHuKmWQHQx3ZxmaeHnrRsPrLYRkUat4'
-// Deployed HT : 0x72fbA4A4C8ee27eCB15c88fBCF09cFC52adA54AE
+// Deployer : 0x72fbA4A4C8ee27eCB15c88fBCF09cFC52adA54AE
+// Contract ：0x2e5ad5739dbae796e51eaadbbedb3d20d6691fe3
 // Symbol      : FCH
 // Name        : FCH Token
 // Total supply: 100000000
